@@ -24,7 +24,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/MA-iosControlCenter-Right/',
+  base: '/MA-iosControlCenter-Right-Prolific/',
   resolve: {
     alias: {
       // Alias @ to the src directory
